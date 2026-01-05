@@ -54,7 +54,7 @@ Here are some repos I’m proud of (you can pin these too!):
 ## 📫 Let’s Connect
 🔗 **LinkedIn:** https://www.linkedin.com/in/dev-daxin-patel/  
 📂 **GitHub:** https://github.com/Dev1822  
-📺 **YouTube:** https://www.youtube.com/@DevPatel-z1j
+📺 **YouTube:** https://www.youtube.com/@DevDaxinPatel
 
 ---
 
