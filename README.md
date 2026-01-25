@@ -42,12 +42,12 @@ I love learning new technologies and working on projects that help me grow as a 
 ## 📌 Featured Projects
 Here are some repos I’m proud of (you can pin these too!):
 
--⭐ **Youtube** – Youtube Clone made using HTML,CSS AND JS. 
--⭐ **MaterialKitchen** – Material Kitchen Clone made using HTML,CSS.
--⭐ **GreatJones** – Great Jones Clone made using HTML,CSS. 
--⭐ **Celestial.ai** – Celestial.ai Clone made using HTML,CSS.
--⭐ **LovableLabs** – Lovable Labs Clone made using HTML,CSS.
--⭐ **ICC** – ICC-CRICKET Clone made using HTML,CSS.
+- ⭐ **Youtube** – Youtube Clone made using HTML,CSS AND JS. 
+- ⭐ **MaterialKitchen** – Material Kitchen Clone made using HTML,CSS.
+- ⭐ **GreatJones** – Great Jones Clone made using HTML,CSS. 
+- ⭐ **Celestial.ai** – Celestial.ai Clone made using HTML,CSS.
+- ⭐ **LovableLabs** – Lovable Labs Clone made using HTML,CSS.
+- ⭐ **ICC** – ICC-CRICKET Clone made using HTML,CSS.
 
 ---
 
