@@ -55,6 +55,8 @@ Here are some repos I’m proud of (you can pin these too!):
 🔗 **LinkedIn:** https://www.linkedin.com/in/dev-daxin-patel/  
 📂 **GitHub:** https://github.com/Dev1822  
 📺 **YouTube:** https://www.youtube.com/@DevDaxinPatel
+💻 **LeetCode:** https://leetcode.com/u/devpatel2007jan/
+
 
 ---
 
