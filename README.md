@@ -42,7 +42,9 @@ I love learning new technologies and working on projects that help me grow as a 
 ## 📌 Featured Projects
 Here are some repos I’m proud of :
 
-- ⭐ **AI Jobs EDA** – Performed Exploratory Data Analysis on datasets consisting of AI-related jobs. 
+- ⭐ **Heart-Disease-EDA** – Performed Exploratory Data Analysis on datasets consisting of Heart Disease Patients.
+- ⭐ **Road-Accident-EDA** – Performed Exploratory Data Analysis on datasets consisting of Road Accident data.
+- ⭐ **AI-Jobs-EDA** – Performed Exploratory Data Analysis on datasets consisting of AI-related jobs. 
 - ⭐ **Youtube** – Youtube Clone made using HTML,CSS AND JS. 
 - ⭐ **MaterialKitchen** – Material Kitchen Clone made using HTML,CSS.
 - ⭐ **GreatJones** – Great Jones Clone made using HTML,CSS. 
