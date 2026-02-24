@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Dev Patel**  
 **Computer Engineering Student**
 
-🎓 1st semester Computer Engineering  
+🎓 2nd semester Computer Engineering  
 📍 Based in Gujarat, India  
 🔗 Check out my LinkedIn below!
 
