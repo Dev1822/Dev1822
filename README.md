@@ -42,6 +42,7 @@ I love learning new technologies and working on projects that help me grow as a 
 ## 📌 Featured Projects
 Here are some repos I’m proud of :
 
+- ⭐ **APIStudio** – Full-stack API testing studio, similar to Postman, designed to help developers test and manage their API requests efficiently.
 - ⭐ **Heart-Disease-EDA** – Performed Exploratory Data Analysis on datasets consisting of Heart Disease Patients.
 - ⭐ **Road-Accident-EDA** – Performed Exploratory Data Analysis on datasets consisting of Road Accident data.
 - ⭐ **AI-Jobs-EDA** – Performed Exploratory Data Analysis on datasets consisting of AI-related jobs. 
