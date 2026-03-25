@@ -1,6 +1,6 @@
 <div align="center">
  
-<h1>Dev  Patel</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Hi+I'm+Dev+Patel;A+Computer+Engineering+Student;A+Passionate+Developer;A+Problem+Solver" alt="Typing SVG" />
  
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
  
