@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="https://raw.githubusercontent.com/Dev1822/Dev1822/main/banner.svg" />
+<h1>Dev  Patel</h1>
  
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
  
