@@ -1,8 +1,8 @@
 <div align="center">
  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+I'm+Dev+Patel;Computer+Engineering+Student;Full+Stack+Developer;Problem+Solver" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dev%20Patel&fontSize=60&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Builder%20%7C%20Explorer&descAlignY=60&descColor=a0aec0" width="100%"/>
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;LeetCode+Grinder+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
  
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
  
