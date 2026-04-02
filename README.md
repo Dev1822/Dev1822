@@ -67,14 +67,9 @@ class DevPatel:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev1822&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev1822&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dev1822&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev1822&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev1822&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev1822&theme=tokyonight"/>
 
 </div>
 
