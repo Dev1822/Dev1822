@@ -75,25 +75,6 @@ class DevPatel:
 
 ---
 
-## 🚀 Featured Projects
-
-| 🏷️ Project | 📝 Description | 🔧 Tech |
-|---|---|---|
-| [**🏠 House Price Prediction**](https://github.com/Dev1822/House-Price-Prediction) | A full-stack React and Flask web application that uses Machine Learning to predice house prices based on its features. | `ReactJS` `Tailwind CSS` `Flask` `Scikit Learn` |
-| [**🔬 APIStudio**](https://github.com/Dev1822/APIStudio) | Full-stack API testing studio — like Postman, built from scratch. Test & manage API requests efficiently. | `ReactJS` `MongoDB` `Nodejs` `Tailwind CSS` |
-| [**❤️ Heart-Disease-EDA**](https://github.com/Dev1822/Heart-Disease-EDA) | Exploratory Data Analysis on heart disease patient datasets to uncover patterns & insights. | `Python` `Pandas` `Matplotlib`|
-| [**🚗 Road-Accident-EDA**](https://github.com/Dev1822/Road-Accident-EDA) | Data analysis on road accident datasets, visualizing trends to understand accident causes. | `Python` `Pandas` `Matplotlib`|
-| [**🤖 AI-Jobs-EDA**](https://github.com/Dev1822/AI-Jobs-EDA) | EDA on AI-related job market datasets — exploring roles, salaries, and trends in AI careers. | `Python` `Pandas` `Matplotlib`|
-| [**▶️ YouTube Clone**](https://github.com/Dev1822/Youtube) | Fully responsive YouTube homepage clone with video cards and UI layout. | `HTML` `CSS` `JS` |
-| [**🍴 MaterialKitchen**](https://github.com/Dev1822/MaterialKitchen) | Pixel-perfect clone of the Material Kitchen website. | `HTML` `CSS` |
-| [**🛒 GreatJones**](https://github.com/Dev1822/GreatJones) | Great Jones cookware website clone with elegant layout and styling. | `HTML` `CSS` |
-| [**🌌 Celestial.ai**](https://github.com/Dev1822/Celestial.ai) | Celestial.ai website clone — modern AI product landing page. | `HTML` `CSS` |
-| [**💡 LovableLabs**](https://github.com/Dev1822/LovableLabs) | Lovable Labs clone with clean, modern design. | `HTML` `CSS` |
-| [**🏏 ICC Cricket**](https://github.com/Dev1822/ICC) | ICC Cricket website clone with sport-focused UI layout. | `HTML` `CSS` |
-| [**🦸 Marvel**](https://github.com/Dev1822/Marvel) | Marvel website clone — superhero-themed design and layout. | `HTML` `CSS` |
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
