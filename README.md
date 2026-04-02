@@ -70,6 +70,8 @@ class DevPatel:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
