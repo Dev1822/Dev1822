@@ -5,11 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;LeetCode+Grinder+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
  
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-daxin-patel/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev1822)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevDaxinPatel)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devpatel2007jan/)
 
  ![Profile views](https://komarev.com/ghpvc/?username=Dev1822&color=blue)
  
@@ -32,6 +27,20 @@ class DevPatel:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something awesome together 🚀")
 ```
+
+---
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-daxin-patel/)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevDaxinPatel)
+[![LeetCode](https://img.shields.io/badge/Follow%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devpatel2007jan/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev1822)
+
+</div>
 
 ---
 
@@ -103,19 +112,6 @@ class DevPatel:
 - 📖 Learning **React.js** and **MongoDB**
 - 🤖 Exploring **Machine Learning & AI tools**
 - 🏆 Grinding problems on **LeetCode**
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-daxin-patel/)
-[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevDaxinPatel)
-[![LeetCode](https://img.shields.io/badge/Follow%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devpatel2007jan/)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev1822)
 
 ---
 
