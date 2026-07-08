@@ -19,7 +19,7 @@ class DevPatel:
     def __init__(self):
         self.name        = "Dev Patel"
         self.role        = "Computer Engineering Student"
-        self.semester    = "2nd Semester"
+        self.semester    = "3rd Semester"
         self.location    = "Gujarat, India 🇮🇳"
         self.passions    = ["Web Development", "AI & ML", "Open Source"]
         self.currently   = "Building cool projects & exploring new tech"
