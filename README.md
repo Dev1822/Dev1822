@@ -109,7 +109,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 ## 🌱 Currently
 
 - 🔭 Working on **full-stack web projects**
-- 📖 Learning **React.js** and **MongoDB**
+- 📖 Learning **Next.js** and **Redis**
 - 🤖 Exploring **Machine Learning & AI tools**
 - 🏆 Grinding problems on **LeetCode**
 
