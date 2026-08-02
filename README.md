@@ -90,7 +90,6 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Dev1822&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dev1822&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dev1822&show_icons=true&theme=radical"/>
 
 </div>
 
