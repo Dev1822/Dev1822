@@ -105,12 +105,9 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-## 🌱 Currently
+## Github Trophies
 
-- 🔭 Working on **full-stack web projects**
-- 📖 Learning **Next.js** and **Redis**
-- 🤖 Exploring **Machine Learning & AI tools**
-- 🏆 Grinding problems on **LeetCode**
+![Github Trophies](https://github-trophies.vercel.app/?username=Dev1822)
 
 ---
 
