@@ -88,9 +88,9 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev1822&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev1822&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dev1822&theme=tokyonight"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Dev1822&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Dev1822&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Dev1822&show_icons=true&theme=radical"/>
 
 </div>
 
