@@ -111,6 +111,12 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
+## My Contributions
+
+![Contributions](https://ssr-contributions-svg.vercel.app/_/Dev1822?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large)
+
+---
+
 ### ⭐ If you like my work, consider starring my repos — it means a lot!
 
 *"First, solve the problem. Then, write the code." – John Johnson*
